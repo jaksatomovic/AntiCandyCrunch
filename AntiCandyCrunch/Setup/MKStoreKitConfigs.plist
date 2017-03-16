@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict>
+		<key>com.Rebeloper.AntiCandyCrunch.Stars1</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>39</integer>
+			<key>ConsumableId</key>
+			<string>Stars</string>
+		</dict>
+		<key>com.Rebeloper.AntiCandyCrunch.Stars2</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>99</integer>
+			<key>ConsumableId</key>
+			<string>Stars</string>
+		</dict>
+		<key>com.Rebeloper.AntiCandyCrunch.Stars3</key>
+		<dict>
+			<key>ConsumableCount</key>
+			<integer>199</integer>
+			<key>ConsumableId</key>
+			<string>Stars</string>
+		</dict>
+	</dict>
+	<key>Others</key>
+	<array>
+		<string>com.Rebeloper.AntiCandyCrunch.NoAds</string>
+	</array>
+	<key>SharedSecret</key>
+	<string></string>
+</dict>
+</plist>

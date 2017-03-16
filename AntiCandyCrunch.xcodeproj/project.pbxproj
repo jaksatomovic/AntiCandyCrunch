@@ -1,0 +1,1077 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1FF8992C1E23CD7B00A35EE8 /* Level_0.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898BE1E23CD7B00A35EE8 /* Level_0.json */; };
+		1FF8992D1E23CD7B00A35EE8 /* Level_1.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898BF1E23CD7B00A35EE8 /* Level_1.json */; };
+		1FF8992E1E23CD7B00A35EE8 /* Level_2.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C01E23CD7B00A35EE8 /* Level_2.json */; };
+		1FF8992F1E23CD7B00A35EE8 /* Level_3.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C11E23CD7B00A35EE8 /* Level_3.json */; };
+		1FF899301E23CD7B00A35EE8 /* Level_4.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C21E23CD7B00A35EE8 /* Level_4.json */; };
+		1FF899311E23CD7B00A35EE8 /* Level_5.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C31E23CD7B00A35EE8 /* Level_5.json */; };
+		1FF899321E23CD7B00A35EE8 /* Level_6.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C41E23CD7B00A35EE8 /* Level_6.json */; };
+		1FF899331E23CD7B00A35EE8 /* Level_7.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C51E23CD7B00A35EE8 /* Level_7.json */; };
+		1FF899341E23CD7B00A35EE8 /* Level_8.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C61E23CD7B00A35EE8 /* Level_8.json */; };
+		1FF899351E23CD7B00A35EE8 /* Level_9.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C71E23CD7B00A35EE8 /* Level_9.json */; };
+		1FF899361E23CD7B00A35EE8 /* Level_10.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C81E23CD7B00A35EE8 /* Level_10.json */; };
+		1FF899371E23CD7B00A35EE8 /* Level_11.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898C91E23CD7B00A35EE8 /* Level_11.json */; };
+		1FF899381E23CD7B00A35EE8 /* Level_12.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898CA1E23CD7B00A35EE8 /* Level_12.json */; };
+		1FF899391E23CD7B00A35EE8 /* Level_13.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898CB1E23CD7B00A35EE8 /* Level_13.json */; };
+		1FF8993A1E23CD7B00A35EE8 /* Level_14.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898CC1E23CD7B00A35EE8 /* Level_14.json */; };
+		1FF8993B1E23CD7B00A35EE8 /* Level_15.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898CD1E23CD7B00A35EE8 /* Level_15.json */; };
+		1FF8993C1E23CD7B00A35EE8 /* Level_16.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898CE1E23CD7B00A35EE8 /* Level_16.json */; };
+		1FF8993D1E23CD7B00A35EE8 /* Level_17.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898CF1E23CD7B00A35EE8 /* Level_17.json */; };
+		1FF8993E1E23CD7B00A35EE8 /* Level_18.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D01E23CD7B00A35EE8 /* Level_18.json */; };
+		1FF8993F1E23CD7B00A35EE8 /* Level_19.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D11E23CD7B00A35EE8 /* Level_19.json */; };
+		1FF899401E23CD7B00A35EE8 /* Level_20.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D21E23CD7B00A35EE8 /* Level_20.json */; };
+		1FF899411E23CD7B00A35EE8 /* Level_21.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D31E23CD7B00A35EE8 /* Level_21.json */; };
+		1FF899421E23CD7B00A35EE8 /* Level_22.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D41E23CD7B00A35EE8 /* Level_22.json */; };
+		1FF899431E23CD7B00A35EE8 /* Level_23.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D51E23CD7B00A35EE8 /* Level_23.json */; };
+		1FF899441E23CD7B00A35EE8 /* Level_24.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D61E23CD7B00A35EE8 /* Level_24.json */; };
+		1FF899451E23CD7B00A35EE8 /* Level_25.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D71E23CD7B00A35EE8 /* Level_25.json */; };
+		1FF899461E23CD7B00A35EE8 /* Level_26.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D81E23CD7B00A35EE8 /* Level_26.json */; };
+		1FF899471E23CD7B00A35EE8 /* Level_27.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898D91E23CD7B00A35EE8 /* Level_27.json */; };
+		1FF899481E23CD7B00A35EE8 /* Level_28.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898DA1E23CD7B00A35EE8 /* Level_28.json */; };
+		1FF899491E23CD7B00A35EE8 /* Level_29.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898DB1E23CD7B00A35EE8 /* Level_29.json */; };
+		1FF8994A1E23CD7B00A35EE8 /* Level_30.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898DC1E23CD7B00A35EE8 /* Level_30.json */; };
+		1FF8994B1E23CD7B00A35EE8 /* Level_31.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898DD1E23CD7B00A35EE8 /* Level_31.json */; };
+		1FF8994C1E23CD7B00A35EE8 /* Level_32.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898DE1E23CD7B00A35EE8 /* Level_32.json */; };
+		1FF8994D1E23CD7B00A35EE8 /* Level_33.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898DF1E23CD7B00A35EE8 /* Level_33.json */; };
+		1FF8994E1E23CD7B00A35EE8 /* Level_34.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E01E23CD7B00A35EE8 /* Level_34.json */; };
+		1FF8994F1E23CD7B00A35EE8 /* Level_35.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E11E23CD7B00A35EE8 /* Level_35.json */; };
+		1FF899501E23CD7B00A35EE8 /* Level_36.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E21E23CD7B00A35EE8 /* Level_36.json */; };
+		1FF899511E23CD7B00A35EE8 /* Level_37.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E31E23CD7B00A35EE8 /* Level_37.json */; };
+		1FF899521E23CD7B00A35EE8 /* Level_38.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E41E23CD7B00A35EE8 /* Level_38.json */; };
+		1FF899531E23CD7B00A35EE8 /* Level_39.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E51E23CD7B00A35EE8 /* Level_39.json */; };
+		1FF899541E23CD7B00A35EE8 /* Level_40.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E61E23CD7B00A35EE8 /* Level_40.json */; };
+		1FF899551E23CD7B00A35EE8 /* Level_41.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E71E23CD7B00A35EE8 /* Level_41.json */; };
+		1FF899561E23CD7B00A35EE8 /* Level_42.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E81E23CD7B00A35EE8 /* Level_42.json */; };
+		1FF899571E23CD7B00A35EE8 /* Level_43.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898E91E23CD7B00A35EE8 /* Level_43.json */; };
+		1FF899581E23CD7B00A35EE8 /* Level_44.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898EA1E23CD7B00A35EE8 /* Level_44.json */; };
+		1FF899591E23CD7B00A35EE8 /* Level_45.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898EB1E23CD7B00A35EE8 /* Level_45.json */; };
+		1FF8995A1E23CD7B00A35EE8 /* Level_46.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898EC1E23CD7B00A35EE8 /* Level_46.json */; };
+		1FF8995B1E23CD7B00A35EE8 /* Level_47.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898ED1E23CD7B00A35EE8 /* Level_47.json */; };
+		1FF8995C1E23CD7B00A35EE8 /* Level_48.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898EE1E23CD7B00A35EE8 /* Level_48.json */; };
+		1FF8995D1E23CD7B00A35EE8 /* Level_49.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898EF1E23CD7B00A35EE8 /* Level_49.json */; };
+		1FF8995E1E23CD7B00A35EE8 /* Level_50.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F01E23CD7B00A35EE8 /* Level_50.json */; };
+		1FF8995F1E23CD7B00A35EE8 /* Level_51.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F11E23CD7B00A35EE8 /* Level_51.json */; };
+		1FF899601E23CD7B00A35EE8 /* Level_52.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F21E23CD7B00A35EE8 /* Level_52.json */; };
+		1FF899611E23CD7B00A35EE8 /* Level_53.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F31E23CD7B00A35EE8 /* Level_53.json */; };
+		1FF899621E23CD7B00A35EE8 /* Level_54.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F41E23CD7B00A35EE8 /* Level_54.json */; };
+		1FF899631E23CD7B00A35EE8 /* Level_55.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F51E23CD7B00A35EE8 /* Level_55.json */; };
+		1FF899641E23CD7B00A35EE8 /* Level_56.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F61E23CD7B00A35EE8 /* Level_56.json */; };
+		1FF899651E23CD7B00A35EE8 /* Level_57.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F71E23CD7B00A35EE8 /* Level_57.json */; };
+		1FF899661E23CD7B00A35EE8 /* Level_58.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F81E23CD7B00A35EE8 /* Level_58.json */; };
+		1FF899671E23CD7B00A35EE8 /* Level_59.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898F91E23CD7B00A35EE8 /* Level_59.json */; };
+		1FF899681E23CD7B00A35EE8 /* Level_60.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898FA1E23CD7B00A35EE8 /* Level_60.json */; };
+		1FF899691E23CD7B00A35EE8 /* Level_61.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898FB1E23CD7B00A35EE8 /* Level_61.json */; };
+		1FF8996A1E23CD7B00A35EE8 /* Level_62.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898FC1E23CD7B00A35EE8 /* Level_62.json */; };
+		1FF8996B1E23CD7B00A35EE8 /* Level_63.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898FD1E23CD7B00A35EE8 /* Level_63.json */; };
+		1FF8996C1E23CD7B00A35EE8 /* Level_64.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898FE1E23CD7B00A35EE8 /* Level_64.json */; };
+		1FF8996D1E23CD7B00A35EE8 /* Level_65.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF898FF1E23CD7B00A35EE8 /* Level_65.json */; };
+		1FF8996E1E23CD7B00A35EE8 /* Level_66.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899001E23CD7B00A35EE8 /* Level_66.json */; };
+		1FF8996F1E23CD7B00A35EE8 /* Level_67.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899011E23CD7B00A35EE8 /* Level_67.json */; };
+		1FF899701E23CD7B00A35EE8 /* Level_68.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899021E23CD7B00A35EE8 /* Level_68.json */; };
+		1FF899711E23CD7B00A35EE8 /* Level_69.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899031E23CD7B00A35EE8 /* Level_69.json */; };
+		1FF899721E23CD7B00A35EE8 /* Level_70.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899041E23CD7B00A35EE8 /* Level_70.json */; };
+		1FF899731E23CD7B00A35EE8 /* Level_71.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899051E23CD7B00A35EE8 /* Level_71.json */; };
+		1FF899741E23CD7B00A35EE8 /* Level_72.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899061E23CD7B00A35EE8 /* Level_72.json */; };
+		1FF899751E23CD7B00A35EE8 /* Level_73.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899071E23CD7B00A35EE8 /* Level_73.json */; };
+		1FF899761E23CD7B00A35EE8 /* Level_74.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899081E23CD7B00A35EE8 /* Level_74.json */; };
+		1FF899771E23CD7B00A35EE8 /* Level_75.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899091E23CD7B00A35EE8 /* Level_75.json */; };
+		1FF899781E23CD7B00A35EE8 /* Level_76.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8990A1E23CD7B00A35EE8 /* Level_76.json */; };
+		1FF899791E23CD7B00A35EE8 /* Level_77.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8990B1E23CD7B00A35EE8 /* Level_77.json */; };
+		1FF8997A1E23CD7B00A35EE8 /* Level_78.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8990C1E23CD7B00A35EE8 /* Level_78.json */; };
+		1FF8997B1E23CD7B00A35EE8 /* Level_79.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8990D1E23CD7B00A35EE8 /* Level_79.json */; };
+		1FF8997C1E23CD7B00A35EE8 /* Level_80.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8990E1E23CD7B00A35EE8 /* Level_80.json */; };
+		1FF8997D1E23CD7B00A35EE8 /* Level_81.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8990F1E23CD7B00A35EE8 /* Level_81.json */; };
+		1FF8997E1E23CD7B00A35EE8 /* Level_82.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899101E23CD7B00A35EE8 /* Level_82.json */; };
+		1FF8997F1E23CD7B00A35EE8 /* Level_83.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899111E23CD7B00A35EE8 /* Level_83.json */; };
+		1FF899801E23CD7B00A35EE8 /* Level_84.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899121E23CD7B00A35EE8 /* Level_84.json */; };
+		1FF899811E23CD7B00A35EE8 /* Level_85.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899131E23CD7B00A35EE8 /* Level_85.json */; };
+		1FF899821E23CD7B00A35EE8 /* Level_86.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899141E23CD7B00A35EE8 /* Level_86.json */; };
+		1FF899831E23CD7B00A35EE8 /* Level_87.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899151E23CD7B00A35EE8 /* Level_87.json */; };
+		1FF899841E23CD7B00A35EE8 /* Level_88.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899161E23CD7B00A35EE8 /* Level_88.json */; };
+		1FF899851E23CD7B00A35EE8 /* Level_89.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899171E23CD7B00A35EE8 /* Level_89.json */; };
+		1FF899861E23CD7B00A35EE8 /* Level_90.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899181E23CD7B00A35EE8 /* Level_90.json */; };
+		1FF899871E23CD7B00A35EE8 /* Level_91.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899191E23CD7B00A35EE8 /* Level_91.json */; };
+		1FF899881E23CD7B00A35EE8 /* Level_92.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8991A1E23CD7B00A35EE8 /* Level_92.json */; };
+		1FF899891E23CD7B00A35EE8 /* Level_93.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8991B1E23CD7B00A35EE8 /* Level_93.json */; };
+		1FF8998A1E23CD7B00A35EE8 /* Level_94.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8991C1E23CD7B00A35EE8 /* Level_94.json */; };
+		1FF8998B1E23CD7B00A35EE8 /* Level_95.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8991D1E23CD7B00A35EE8 /* Level_95.json */; };
+		1FF8998C1E23CD7B00A35EE8 /* Level_96.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8991E1E23CD7B00A35EE8 /* Level_96.json */; };
+		1FF8998D1E23CD7B00A35EE8 /* Level_97.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8991F1E23CD7B00A35EE8 /* Level_97.json */; };
+		1FF8998E1E23CD7B00A35EE8 /* Level_98.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899201E23CD7B00A35EE8 /* Level_98.json */; };
+		1FF8998F1E23CD7B00A35EE8 /* Level_99.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899211E23CD7B00A35EE8 /* Level_99.json */; };
+		1FF899901E23CD7B00A35EE8 /* Level_100.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899221E23CD7B00A35EE8 /* Level_100.json */; };
+		1FF899911E23CD7B00A35EE8 /* Level_101.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899231E23CD7B00A35EE8 /* Level_101.json */; };
+		1FF899921E23CD7B00A35EE8 /* Level_102.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899241E23CD7B00A35EE8 /* Level_102.json */; };
+		1FF899931E23CD7B00A35EE8 /* Level_103.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899251E23CD7B00A35EE8 /* Level_103.json */; };
+		1FF899941E23CD7B00A35EE8 /* Level_104.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899261E23CD7B00A35EE8 /* Level_104.json */; };
+		1FF899951E23CD7B00A35EE8 /* Level_105.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899271E23CD7B00A35EE8 /* Level_105.json */; };
+		1FF899961E23CD7B00A35EE8 /* Level_106.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899281E23CD7B00A35EE8 /* Level_106.json */; };
+		1FF899971E23CD7B00A35EE8 /* Level_107.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF899291E23CD7B00A35EE8 /* Level_107.json */; };
+		1FF899981E23CD7B00A35EE8 /* Level_108.json in Resources */ = {isa = PBXBuildFile; fileRef = 1FF8992A1E23CD7B00A35EE8 /* Level_108.json */; };
+		7BD80DA76CE1000EEB9264EB /* Pods_AntiCandyCrunch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 597A1228B043BB8C621A3071 /* Pods_AntiCandyCrunch.framework */; };
+		C905BCA21D72C9EF00A6A155 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C905BCA11D72C9EF00A6A155 /* GameKit.framework */; };
+		C90F5B581D46825F0079511E /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B571D46825F0079511E /* GameScene.sks */; };
+		C90F5B5A1D4685D70079511E /* Cookie.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B591D4685D70079511E /* Cookie.swift */; };
+		C90F5B5C1D46865B0079511E /* Array2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B5B1D46865B0079511E /* Array2D.swift */; };
+		C90F5B5E1D4686AD0079511E /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B5D1D4686AD0079511E /* Level.swift */; };
+		C90F5B601D4686CC0079511E /* Tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B5F1D4686CC0079511E /* Tile.swift */; };
+		C90F5B621D4686EE0079511E /* Swap.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B611D4686EE0079511E /* Swap.swift */; };
+		C90F5B641D4687250079511E /* Chain.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B631D4687250079511E /* Chain.swift */; };
+		C90F5B931D4688320079511E /* Grid.atlas in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B681D4688310079511E /* Grid.atlas */; };
+		C90F5B941D4688320079511E /* Sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B691D4688310079511E /* Sprites.atlas */; };
+		C90F5BB41D4688320079511E /* MKStoreKitConfigs.plist in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B8A1D4688320079511E /* MKStoreKitConfigs.plist */; };
+		C90F5BB51D4688320079511E /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90F5B8B1D4688320079511E /* Settings.swift */; };
+		C90F5BB61D4688320079511E /* BackgroundMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B8D1D4688320079511E /* BackgroundMusic.mp3 */; };
+		C90F5BB71D4688320079511E /* Chomp.wav in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B8E1D4688320079511E /* Chomp.wav */; };
+		C90F5BB81D4688320079511E /* Drip.wav in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B8F1D4688320079511E /* Drip.wav */; };
+		C90F5BB91D4688320079511E /* Ka-Ching.wav in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B901D4688320079511E /* Ka-Ching.wav */; };
+		C90F5BBA1D4688320079511E /* Scrape.wav in Resources */ = {isa = PBXBuildFile; fileRef = C90F5B911D4688320079511E /* Scrape.wav */; };
+		C923DA1B1D70D8D7009AE9DE /* PUSAB___.otf in Resources */ = {isa = PBXBuildFile; fileRef = C923DA1A1D70D8D7009AE9DE /* PUSAB___.otf */; };
+		C923DA1D1D70D90A009AE9DE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C923DA1C1D70D90A009AE9DE /* GoogleService-Info.plist */; };
+		C923DA1F1D70D948009AE9DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C923DA1E1D70D948009AE9DE /* Assets.xcassets */; };
+		C92AA1E31D5107F9004BC4AD /* AchievementsScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92AA1E21D5107F9004BC4AD /* AchievementsScene.swift */; };
+		C92AA1E51D51080A004BC4AD /* AchievementsScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = C92AA1E41D51080A004BC4AD /* AchievementsScene.sks */; };
+		C92F750F1D6DA010002FBE19 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92F750E1D6DA010002FBE19 /* Constants.swift */; };
+		C92F75121D6DE955002FBE19 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92F75111D6DE955002FBE19 /* DataService.swift */; };
+		C92F75151D6E0B07002FBE19 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92F75141D6E0B07002FBE19 /* User.swift */; };
+		C93A371A1D70048E00922487 /* GCHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C93A37191D70048E00922487 /* GCHelper.swift */; };
+		C93A371E1D704AAD00922487 /* Tap.wav in Resources */ = {isa = PBXBuildFile; fileRef = C93A371D1D704AAD00922487 /* Tap.wav */; };
+		C9462AD31D401CF1007F9038 /* MainMenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = C9462AD21D401CF1007F9038 /* MainMenuScene.sks */; };
+		C9462AD51D401D71007F9038 /* MainMenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9462AD41D401D71007F9038 /* MainMenuScene.swift */; };
+		C955F4AD1D3F94C0003C7A55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C955F4AC1D3F94C0003C7A55 /* AppDelegate.swift */; };
+		C955F4B11D3F94C0003C7A55 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C955F4B01D3F94C0003C7A55 /* GameScene.swift */; };
+		C955F4B31D3F94C0003C7A55 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C955F4B21D3F94C0003C7A55 /* GameViewController.swift */; };
+		C955F4B61D3F94C0003C7A55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C955F4B41D3F94C0003C7A55 /* Main.storyboard */; };
+		C955F4BB1D3F94C0003C7A55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C955F4B91D3F94C0003C7A55 /* LaunchScreen.storyboard */; };
+		C955F4C91D3F9C15003C7A55 /* WorldMapScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C955F4C81D3F9C15003C7A55 /* WorldMapScene.swift */; };
+		C955F4CB1D3F9C67003C7A55 /* WorldMapScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = C955F4CA1D3F9C67003C7A55 /* WorldMapScene.sks */; };
+		C9BDED341D5157E3003A31BA /* AchievementBadges.atlas in Resources */ = {isa = PBXBuildFile; fileRef = C9BDED331D5157E3003A31BA /* AchievementBadges.atlas */; };
+		C9C4B8341D422AE500C6E285 /* PlayerStats.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C4B8331D422AE500C6E285 /* PlayerStats.swift */; };
+		C9C616AC1D3FB2D200200CBE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C616AB1D3FB2D200200CBE /* Extensions.swift */; };
+		C9C6CF041D5613D70039A3FB /* MKStoreKit.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C6CF031D5613D70039A3FB /* MKStoreKit.m */; };
+		C9C6CF061D5614100039A3FB /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C6CF051D5614100039A3FB /* StoreKit.framework */; };
+		C9C6CF091D562C820039A3FB /* RateMyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C6CF081D562C820039A3FB /* RateMyApp.swift */; };
+		C9C6CF0B1D56303E0039A3FB /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C6CF0A1D56303E0039A3FB /* GoogleMobileAds.framework */; };
+		C9C6CF211D5BA9980039A3FB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C6CF201D5BA9980039A3FB /* Foundation.framework */; };
+		C9C6CF231D5BA9A60039A3FB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C6CF221D5BA9A60039A3FB /* CoreGraphics.framework */; };
+		C9C6CF251D5BA9B40039A3FB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C6CF241D5BA9B40039A3FB /* UIKit.framework */; };
+		C9C6CF271D5BA9D30039A3FB /* Chartboost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C6CF261D5BA9D30039A3FB /* Chartboost.framework */; };
+		C9C6CF371D5DF3500039A3FB /* SettingsScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = C9C6CF361D5DF3500039A3FB /* SettingsScene.sks */; };
+		C9C6CF391D5DF36C0039A3FB /* SettingsScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C6CF381D5DF36C0039A3FB /* SettingsScene.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1FF898BE1E23CD7B00A35EE8 /* Level_0.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_0.json; sourceTree = "<group>"; };
+		1FF898BF1E23CD7B00A35EE8 /* Level_1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_1.json; sourceTree = "<group>"; };
+		1FF898C01E23CD7B00A35EE8 /* Level_2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_2.json; sourceTree = "<group>"; };
+		1FF898C11E23CD7B00A35EE8 /* Level_3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_3.json; sourceTree = "<group>"; };
+		1FF898C21E23CD7B00A35EE8 /* Level_4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_4.json; sourceTree = "<group>"; };
+		1FF898C31E23CD7B00A35EE8 /* Level_5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_5.json; sourceTree = "<group>"; };
+		1FF898C41E23CD7B00A35EE8 /* Level_6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_6.json; sourceTree = "<group>"; };
+		1FF898C51E23CD7B00A35EE8 /* Level_7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_7.json; sourceTree = "<group>"; };
+		1FF898C61E23CD7B00A35EE8 /* Level_8.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_8.json; sourceTree = "<group>"; };
+		1FF898C71E23CD7B00A35EE8 /* Level_9.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_9.json; sourceTree = "<group>"; };
+		1FF898C81E23CD7B00A35EE8 /* Level_10.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_10.json; sourceTree = "<group>"; };
+		1FF898C91E23CD7B00A35EE8 /* Level_11.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_11.json; sourceTree = "<group>"; };
+		1FF898CA1E23CD7B00A35EE8 /* Level_12.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_12.json; sourceTree = "<group>"; };
+		1FF898CB1E23CD7B00A35EE8 /* Level_13.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_13.json; sourceTree = "<group>"; };
+		1FF898CC1E23CD7B00A35EE8 /* Level_14.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_14.json; sourceTree = "<group>"; };
+		1FF898CD1E23CD7B00A35EE8 /* Level_15.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_15.json; sourceTree = "<group>"; };
+		1FF898CE1E23CD7B00A35EE8 /* Level_16.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_16.json; sourceTree = "<group>"; };
+		1FF898CF1E23CD7B00A35EE8 /* Level_17.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_17.json; sourceTree = "<group>"; };
+		1FF898D01E23CD7B00A35EE8 /* Level_18.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_18.json; sourceTree = "<group>"; };
+		1FF898D11E23CD7B00A35EE8 /* Level_19.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_19.json; sourceTree = "<group>"; };
+		1FF898D21E23CD7B00A35EE8 /* Level_20.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_20.json; sourceTree = "<group>"; };
+		1FF898D31E23CD7B00A35EE8 /* Level_21.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_21.json; sourceTree = "<group>"; };
+		1FF898D41E23CD7B00A35EE8 /* Level_22.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_22.json; sourceTree = "<group>"; };
+		1FF898D51E23CD7B00A35EE8 /* Level_23.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_23.json; sourceTree = "<group>"; };
+		1FF898D61E23CD7B00A35EE8 /* Level_24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_24.json; sourceTree = "<group>"; };
+		1FF898D71E23CD7B00A35EE8 /* Level_25.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_25.json; sourceTree = "<group>"; };
+		1FF898D81E23CD7B00A35EE8 /* Level_26.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_26.json; sourceTree = "<group>"; };
+		1FF898D91E23CD7B00A35EE8 /* Level_27.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_27.json; sourceTree = "<group>"; };
+		1FF898DA1E23CD7B00A35EE8 /* Level_28.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_28.json; sourceTree = "<group>"; };
+		1FF898DB1E23CD7B00A35EE8 /* Level_29.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_29.json; sourceTree = "<group>"; };
+		1FF898DC1E23CD7B00A35EE8 /* Level_30.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_30.json; sourceTree = "<group>"; };
+		1FF898DD1E23CD7B00A35EE8 /* Level_31.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_31.json; sourceTree = "<group>"; };
+		1FF898DE1E23CD7B00A35EE8 /* Level_32.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_32.json; sourceTree = "<group>"; };
+		1FF898DF1E23CD7B00A35EE8 /* Level_33.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_33.json; sourceTree = "<group>"; };
+		1FF898E01E23CD7B00A35EE8 /* Level_34.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_34.json; sourceTree = "<group>"; };
+		1FF898E11E23CD7B00A35EE8 /* Level_35.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_35.json; sourceTree = "<group>"; };
+		1FF898E21E23CD7B00A35EE8 /* Level_36.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_36.json; sourceTree = "<group>"; };
+		1FF898E31E23CD7B00A35EE8 /* Level_37.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_37.json; sourceTree = "<group>"; };
+		1FF898E41E23CD7B00A35EE8 /* Level_38.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_38.json; sourceTree = "<group>"; };
+		1FF898E51E23CD7B00A35EE8 /* Level_39.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_39.json; sourceTree = "<group>"; };
+		1FF898E61E23CD7B00A35EE8 /* Level_40.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_40.json; sourceTree = "<group>"; };
+		1FF898E71E23CD7B00A35EE8 /* Level_41.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_41.json; sourceTree = "<group>"; };
+		1FF898E81E23CD7B00A35EE8 /* Level_42.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_42.json; sourceTree = "<group>"; };
+		1FF898E91E23CD7B00A35EE8 /* Level_43.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_43.json; sourceTree = "<group>"; };
+		1FF898EA1E23CD7B00A35EE8 /* Level_44.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_44.json; sourceTree = "<group>"; };
+		1FF898EB1E23CD7B00A35EE8 /* Level_45.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_45.json; sourceTree = "<group>"; };
+		1FF898EC1E23CD7B00A35EE8 /* Level_46.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_46.json; sourceTree = "<group>"; };
+		1FF898ED1E23CD7B00A35EE8 /* Level_47.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_47.json; sourceTree = "<group>"; };
+		1FF898EE1E23CD7B00A35EE8 /* Level_48.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_48.json; sourceTree = "<group>"; };
+		1FF898EF1E23CD7B00A35EE8 /* Level_49.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_49.json; sourceTree = "<group>"; };
+		1FF898F01E23CD7B00A35EE8 /* Level_50.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_50.json; sourceTree = "<group>"; };
+		1FF898F11E23CD7B00A35EE8 /* Level_51.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_51.json; sourceTree = "<group>"; };
+		1FF898F21E23CD7B00A35EE8 /* Level_52.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_52.json; sourceTree = "<group>"; };
+		1FF898F31E23CD7B00A35EE8 /* Level_53.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_53.json; sourceTree = "<group>"; };
+		1FF898F41E23CD7B00A35EE8 /* Level_54.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_54.json; sourceTree = "<group>"; };
+		1FF898F51E23CD7B00A35EE8 /* Level_55.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_55.json; sourceTree = "<group>"; };
+		1FF898F61E23CD7B00A35EE8 /* Level_56.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_56.json; sourceTree = "<group>"; };
+		1FF898F71E23CD7B00A35EE8 /* Level_57.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_57.json; sourceTree = "<group>"; };
+		1FF898F81E23CD7B00A35EE8 /* Level_58.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_58.json; sourceTree = "<group>"; };
+		1FF898F91E23CD7B00A35EE8 /* Level_59.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_59.json; sourceTree = "<group>"; };
+		1FF898FA1E23CD7B00A35EE8 /* Level_60.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_60.json; sourceTree = "<group>"; };
+		1FF898FB1E23CD7B00A35EE8 /* Level_61.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_61.json; sourceTree = "<group>"; };
+		1FF898FC1E23CD7B00A35EE8 /* Level_62.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_62.json; sourceTree = "<group>"; };
+		1FF898FD1E23CD7B00A35EE8 /* Level_63.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_63.json; sourceTree = "<group>"; };
+		1FF898FE1E23CD7B00A35EE8 /* Level_64.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_64.json; sourceTree = "<group>"; };
+		1FF898FF1E23CD7B00A35EE8 /* Level_65.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_65.json; sourceTree = "<group>"; };
+		1FF899001E23CD7B00A35EE8 /* Level_66.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_66.json; sourceTree = "<group>"; };
+		1FF899011E23CD7B00A35EE8 /* Level_67.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_67.json; sourceTree = "<group>"; };
+		1FF899021E23CD7B00A35EE8 /* Level_68.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_68.json; sourceTree = "<group>"; };
+		1FF899031E23CD7B00A35EE8 /* Level_69.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_69.json; sourceTree = "<group>"; };
+		1FF899041E23CD7B00A35EE8 /* Level_70.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_70.json; sourceTree = "<group>"; };
+		1FF899051E23CD7B00A35EE8 /* Level_71.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_71.json; sourceTree = "<group>"; };
+		1FF899061E23CD7B00A35EE8 /* Level_72.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_72.json; sourceTree = "<group>"; };
+		1FF899071E23CD7B00A35EE8 /* Level_73.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_73.json; sourceTree = "<group>"; };
+		1FF899081E23CD7B00A35EE8 /* Level_74.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_74.json; sourceTree = "<group>"; };
+		1FF899091E23CD7B00A35EE8 /* Level_75.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_75.json; sourceTree = "<group>"; };
+		1FF8990A1E23CD7B00A35EE8 /* Level_76.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_76.json; sourceTree = "<group>"; };
+		1FF8990B1E23CD7B00A35EE8 /* Level_77.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_77.json; sourceTree = "<group>"; };
+		1FF8990C1E23CD7B00A35EE8 /* Level_78.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_78.json; sourceTree = "<group>"; };
+		1FF8990D1E23CD7B00A35EE8 /* Level_79.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_79.json; sourceTree = "<group>"; };
+		1FF8990E1E23CD7B00A35EE8 /* Level_80.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_80.json; sourceTree = "<group>"; };
+		1FF8990F1E23CD7B00A35EE8 /* Level_81.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_81.json; sourceTree = "<group>"; };
+		1FF899101E23CD7B00A35EE8 /* Level_82.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_82.json; sourceTree = "<group>"; };
+		1FF899111E23CD7B00A35EE8 /* Level_83.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_83.json; sourceTree = "<group>"; };
+		1FF899121E23CD7B00A35EE8 /* Level_84.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_84.json; sourceTree = "<group>"; };
+		1FF899131E23CD7B00A35EE8 /* Level_85.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_85.json; sourceTree = "<group>"; };
+		1FF899141E23CD7B00A35EE8 /* Level_86.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_86.json; sourceTree = "<group>"; };
+		1FF899151E23CD7B00A35EE8 /* Level_87.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_87.json; sourceTree = "<group>"; };
+		1FF899161E23CD7B00A35EE8 /* Level_88.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_88.json; sourceTree = "<group>"; };
+		1FF899171E23CD7B00A35EE8 /* Level_89.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_89.json; sourceTree = "<group>"; };
+		1FF899181E23CD7B00A35EE8 /* Level_90.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_90.json; sourceTree = "<group>"; };
+		1FF899191E23CD7B00A35EE8 /* Level_91.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_91.json; sourceTree = "<group>"; };
+		1FF8991A1E23CD7B00A35EE8 /* Level_92.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_92.json; sourceTree = "<group>"; };
+		1FF8991B1E23CD7B00A35EE8 /* Level_93.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_93.json; sourceTree = "<group>"; };
+		1FF8991C1E23CD7B00A35EE8 /* Level_94.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_94.json; sourceTree = "<group>"; };
+		1FF8991D1E23CD7B00A35EE8 /* Level_95.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_95.json; sourceTree = "<group>"; };
+		1FF8991E1E23CD7B00A35EE8 /* Level_96.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_96.json; sourceTree = "<group>"; };
+		1FF8991F1E23CD7B00A35EE8 /* Level_97.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_97.json; sourceTree = "<group>"; };
+		1FF899201E23CD7B00A35EE8 /* Level_98.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_98.json; sourceTree = "<group>"; };
+		1FF899211E23CD7B00A35EE8 /* Level_99.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_99.json; sourceTree = "<group>"; };
+		1FF899221E23CD7B00A35EE8 /* Level_100.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_100.json; sourceTree = "<group>"; };
+		1FF899231E23CD7B00A35EE8 /* Level_101.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_101.json; sourceTree = "<group>"; };
+		1FF899241E23CD7B00A35EE8 /* Level_102.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_102.json; sourceTree = "<group>"; };
+		1FF899251E23CD7B00A35EE8 /* Level_103.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_103.json; sourceTree = "<group>"; };
+		1FF899261E23CD7B00A35EE8 /* Level_104.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_104.json; sourceTree = "<group>"; };
+		1FF899271E23CD7B00A35EE8 /* Level_105.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_105.json; sourceTree = "<group>"; };
+		1FF899281E23CD7B00A35EE8 /* Level_106.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_106.json; sourceTree = "<group>"; };
+		1FF899291E23CD7B00A35EE8 /* Level_107.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_107.json; sourceTree = "<group>"; };
+		1FF8992A1E23CD7B00A35EE8 /* Level_108.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Level_108.json; sourceTree = "<group>"; };
+		597A1228B043BB8C621A3071 /* Pods_AntiCandyCrunch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AntiCandyCrunch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D8B74FE20EC0C04088F62C9 /* Pods-AntiCandyCrunch.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AntiCandyCrunch.release.xcconfig"; path = "Pods/Target Support Files/Pods-AntiCandyCrunch/Pods-AntiCandyCrunch.release.xcconfig"; sourceTree = "<group>"; };
+		BA8B944BF17179D12953ECFA /* Pods-AntiCandyCrunch.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AntiCandyCrunch.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AntiCandyCrunch/Pods-AntiCandyCrunch.debug.xcconfig"; sourceTree = "<group>"; };
+		C905BCA11D72C9EF00A6A155 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		C90F5B571D46825F0079511E /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		C90F5B591D4685D70079511E /* Cookie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cookie.swift; sourceTree = "<group>"; };
+		C90F5B5B1D46865B0079511E /* Array2D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array2D.swift; sourceTree = "<group>"; };
+		C90F5B5D1D4686AD0079511E /* Level.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
+		C90F5B5F1D4686CC0079511E /* Tile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tile.swift; sourceTree = "<group>"; };
+		C90F5B611D4686EE0079511E /* Swap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swap.swift; sourceTree = "<group>"; };
+		C90F5B631D4687250079511E /* Chain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chain.swift; sourceTree = "<group>"; };
+		C90F5B681D4688310079511E /* Grid.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = Grid.atlas; sourceTree = "<group>"; };
+		C90F5B691D4688310079511E /* Sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = Sprites.atlas; sourceTree = "<group>"; };
+		C90F5B8A1D4688320079511E /* MKStoreKitConfigs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MKStoreKitConfigs.plist; sourceTree = "<group>"; };
+		C90F5B8B1D4688320079511E /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		C90F5B8D1D4688320079511E /* BackgroundMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = BackgroundMusic.mp3; sourceTree = "<group>"; };
+		C90F5B8E1D4688320079511E /* Chomp.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Chomp.wav; sourceTree = "<group>"; };
+		C90F5B8F1D4688320079511E /* Drip.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Drip.wav; sourceTree = "<group>"; };
+		C90F5B901D4688320079511E /* Ka-Ching.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Ka-Ching.wav"; sourceTree = "<group>"; };
+		C90F5B911D4688320079511E /* Scrape.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Scrape.wav; sourceTree = "<group>"; };
+		C923DA1A1D70D8D7009AE9DE /* PUSAB___.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PUSAB___.otf; sourceTree = "<group>"; };
+		C923DA1C1D70D90A009AE9DE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C923DA1E1D70D948009AE9DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C923DA231D70DFD7009AE9DE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../Info.plist; sourceTree = "<group>"; };
+		C92AA1E21D5107F9004BC4AD /* AchievementsScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AchievementsScene.swift; sourceTree = "<group>"; };
+		C92AA1E41D51080A004BC4AD /* AchievementsScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = AchievementsScene.sks; sourceTree = "<group>"; };
+		C92F750E1D6DA010002FBE19 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		C92F75111D6DE955002FBE19 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		C92F75141D6E0B07002FBE19 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C93A37191D70048E00922487 /* GCHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GCHelper.swift; sourceTree = "<group>"; };
+		C93A371D1D704AAD00922487 /* Tap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Tap.wav; sourceTree = "<group>"; };
+		C9462AD21D401CF1007F9038 /* MainMenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MainMenuScene.sks; sourceTree = "<group>"; };
+		C9462AD41D401D71007F9038 /* MainMenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenuScene.swift; sourceTree = "<group>"; };
+		C955F4A91D3F94C0003C7A55 /* AntiCandyCrunch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AntiCandyCrunch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C955F4AC1D3F94C0003C7A55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C955F4B01D3F94C0003C7A55 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		C955F4B21D3F94C0003C7A55 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		C955F4B51D3F94C0003C7A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C955F4BA1D3F94C0003C7A55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C955F4C81D3F9C15003C7A55 /* WorldMapScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WorldMapScene.swift; sourceTree = "<group>"; };
+		C955F4CA1D3F9C67003C7A55 /* WorldMapScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = WorldMapScene.sks; sourceTree = "<group>"; };
+		C9BDED331D5157E3003A31BA /* AchievementBadges.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = AchievementBadges.atlas; sourceTree = "<group>"; };
+		C9C4B8331D422AE500C6E285 /* PlayerStats.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerStats.swift; sourceTree = "<group>"; };
+		C9C616AB1D3FB2D200200CBE /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		C9C6CF021D5613D70039A3FB /* MKStoreKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKStoreKit.h; sourceTree = "<group>"; };
+		C9C6CF031D5613D70039A3FB /* MKStoreKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKStoreKit.m; sourceTree = "<group>"; };
+		C9C6CF051D5614100039A3FB /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		C9C6CF071D56145A0039A3FB /* AntiCandyCrunch-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AntiCandyCrunch-Bridging-Header.h"; sourceTree = "<group>"; };
+		C9C6CF081D562C820039A3FB /* RateMyApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RateMyApp.swift; sourceTree = "<group>"; };
+		C9C6CF0A1D56303E0039A3FB /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
+		C9C6CF201D5BA9980039A3FB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C9C6CF221D5BA9A60039A3FB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C9C6CF241D5BA9B40039A3FB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C9C6CF261D5BA9D30039A3FB /* Chartboost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Chartboost.framework; sourceTree = "<group>"; };
+		C9C6CF361D5DF3500039A3FB /* SettingsScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SettingsScene.sks; sourceTree = "<group>"; };
+		C9C6CF381D5DF36C0039A3FB /* SettingsScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsScene.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C955F4A61D3F94C0003C7A55 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9C6CF251D5BA9B40039A3FB /* UIKit.framework in Frameworks */,
+				C9C6CF231D5BA9A60039A3FB /* CoreGraphics.framework in Frameworks */,
+				C9C6CF211D5BA9980039A3FB /* Foundation.framework in Frameworks */,
+				C9C6CF271D5BA9D30039A3FB /* Chartboost.framework in Frameworks */,
+				C9C6CF0B1D56303E0039A3FB /* GoogleMobileAds.framework in Frameworks */,
+				C9C6CF061D5614100039A3FB /* StoreKit.framework in Frameworks */,
+				7BD80DA76CE1000EEB9264EB /* Pods_AntiCandyCrunch.framework in Frameworks */,
+				C905BCA21D72C9EF00A6A155 /* GameKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0FD711F9760A6E667D187711 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C905BCA11D72C9EF00A6A155 /* GameKit.framework */,
+				597A1228B043BB8C621A3071 /* Pods_AntiCandyCrunch.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1FF8992B1E23CD7B00A35EE8 /* Levels */ = {
+			isa = PBXGroup;
+			children = (
+				1FF898BE1E23CD7B00A35EE8 /* Level_0.json */,
+				1FF898BF1E23CD7B00A35EE8 /* Level_1.json */,
+				1FF898C01E23CD7B00A35EE8 /* Level_2.json */,
+				1FF898C11E23CD7B00A35EE8 /* Level_3.json */,
+				1FF898C21E23CD7B00A35EE8 /* Level_4.json */,
+				1FF898C31E23CD7B00A35EE8 /* Level_5.json */,
+				1FF898C41E23CD7B00A35EE8 /* Level_6.json */,
+				1FF898C51E23CD7B00A35EE8 /* Level_7.json */,
+				1FF898C61E23CD7B00A35EE8 /* Level_8.json */,
+				1FF898C71E23CD7B00A35EE8 /* Level_9.json */,
+				1FF898C81E23CD7B00A35EE8 /* Level_10.json */,
+				1FF898C91E23CD7B00A35EE8 /* Level_11.json */,
+				1FF898CA1E23CD7B00A35EE8 /* Level_12.json */,
+				1FF898CB1E23CD7B00A35EE8 /* Level_13.json */,
+				1FF898CC1E23CD7B00A35EE8 /* Level_14.json */,
+				1FF898CD1E23CD7B00A35EE8 /* Level_15.json */,
+				1FF898CE1E23CD7B00A35EE8 /* Level_16.json */,
+				1FF898CF1E23CD7B00A35EE8 /* Level_17.json */,
+				1FF898D01E23CD7B00A35EE8 /* Level_18.json */,
+				1FF898D11E23CD7B00A35EE8 /* Level_19.json */,
+				1FF898D21E23CD7B00A35EE8 /* Level_20.json */,
+				1FF898D31E23CD7B00A35EE8 /* Level_21.json */,
+				1FF898D41E23CD7B00A35EE8 /* Level_22.json */,
+				1FF898D51E23CD7B00A35EE8 /* Level_23.json */,
+				1FF898D61E23CD7B00A35EE8 /* Level_24.json */,
+				1FF898D71E23CD7B00A35EE8 /* Level_25.json */,
+				1FF898D81E23CD7B00A35EE8 /* Level_26.json */,
+				1FF898D91E23CD7B00A35EE8 /* Level_27.json */,
+				1FF898DA1E23CD7B00A35EE8 /* Level_28.json */,
+				1FF898DB1E23CD7B00A35EE8 /* Level_29.json */,
+				1FF898DC1E23CD7B00A35EE8 /* Level_30.json */,
+				1FF898DD1E23CD7B00A35EE8 /* Level_31.json */,
+				1FF898DE1E23CD7B00A35EE8 /* Level_32.json */,
+				1FF898DF1E23CD7B00A35EE8 /* Level_33.json */,
+				1FF898E01E23CD7B00A35EE8 /* Level_34.json */,
+				1FF898E11E23CD7B00A35EE8 /* Level_35.json */,
+				1FF898E21E23CD7B00A35EE8 /* Level_36.json */,
+				1FF898E31E23CD7B00A35EE8 /* Level_37.json */,
+				1FF898E41E23CD7B00A35EE8 /* Level_38.json */,
+				1FF898E51E23CD7B00A35EE8 /* Level_39.json */,
+				1FF898E61E23CD7B00A35EE8 /* Level_40.json */,
+				1FF898E71E23CD7B00A35EE8 /* Level_41.json */,
+				1FF898E81E23CD7B00A35EE8 /* Level_42.json */,
+				1FF898E91E23CD7B00A35EE8 /* Level_43.json */,
+				1FF898EA1E23CD7B00A35EE8 /* Level_44.json */,
+				1FF898EB1E23CD7B00A35EE8 /* Level_45.json */,
+				1FF898EC1E23CD7B00A35EE8 /* Level_46.json */,
+				1FF898ED1E23CD7B00A35EE8 /* Level_47.json */,
+				1FF898EE1E23CD7B00A35EE8 /* Level_48.json */,
+				1FF898EF1E23CD7B00A35EE8 /* Level_49.json */,
+				1FF898F01E23CD7B00A35EE8 /* Level_50.json */,
+				1FF898F11E23CD7B00A35EE8 /* Level_51.json */,
+				1FF898F21E23CD7B00A35EE8 /* Level_52.json */,
+				1FF898F31E23CD7B00A35EE8 /* Level_53.json */,
+				1FF898F41E23CD7B00A35EE8 /* Level_54.json */,
+				1FF898F51E23CD7B00A35EE8 /* Level_55.json */,
+				1FF898F61E23CD7B00A35EE8 /* Level_56.json */,
+				1FF898F71E23CD7B00A35EE8 /* Level_57.json */,
+				1FF898F81E23CD7B00A35EE8 /* Level_58.json */,
+				1FF898F91E23CD7B00A35EE8 /* Level_59.json */,
+				1FF898FA1E23CD7B00A35EE8 /* Level_60.json */,
+				1FF898FB1E23CD7B00A35EE8 /* Level_61.json */,
+				1FF898FC1E23CD7B00A35EE8 /* Level_62.json */,
+				1FF898FD1E23CD7B00A35EE8 /* Level_63.json */,
+				1FF898FE1E23CD7B00A35EE8 /* Level_64.json */,
+				1FF898FF1E23CD7B00A35EE8 /* Level_65.json */,
+				1FF899001E23CD7B00A35EE8 /* Level_66.json */,
+				1FF899011E23CD7B00A35EE8 /* Level_67.json */,
+				1FF899021E23CD7B00A35EE8 /* Level_68.json */,
+				1FF899031E23CD7B00A35EE8 /* Level_69.json */,
+				1FF899041E23CD7B00A35EE8 /* Level_70.json */,
+				1FF899051E23CD7B00A35EE8 /* Level_71.json */,
+				1FF899061E23CD7B00A35EE8 /* Level_72.json */,
+				1FF899071E23CD7B00A35EE8 /* Level_73.json */,
+				1FF899081E23CD7B00A35EE8 /* Level_74.json */,
+				1FF899091E23CD7B00A35EE8 /* Level_75.json */,
+				1FF8990A1E23CD7B00A35EE8 /* Level_76.json */,
+				1FF8990B1E23CD7B00A35EE8 /* Level_77.json */,
+				1FF8990C1E23CD7B00A35EE8 /* Level_78.json */,
+				1FF8990D1E23CD7B00A35EE8 /* Level_79.json */,
+				1FF8990E1E23CD7B00A35EE8 /* Level_80.json */,
+				1FF8990F1E23CD7B00A35EE8 /* Level_81.json */,
+				1FF899101E23CD7B00A35EE8 /* Level_82.json */,
+				1FF899111E23CD7B00A35EE8 /* Level_83.json */,
+				1FF899121E23CD7B00A35EE8 /* Level_84.json */,
+				1FF899131E23CD7B00A35EE8 /* Level_85.json */,
+				1FF899141E23CD7B00A35EE8 /* Level_86.json */,
+				1FF899151E23CD7B00A35EE8 /* Level_87.json */,
+				1FF899161E23CD7B00A35EE8 /* Level_88.json */,
+				1FF899171E23CD7B00A35EE8 /* Level_89.json */,
+				1FF899181E23CD7B00A35EE8 /* Level_90.json */,
+				1FF899191E23CD7B00A35EE8 /* Level_91.json */,
+				1FF8991A1E23CD7B00A35EE8 /* Level_92.json */,
+				1FF8991B1E23CD7B00A35EE8 /* Level_93.json */,
+				1FF8991C1E23CD7B00A35EE8 /* Level_94.json */,
+				1FF8991D1E23CD7B00A35EE8 /* Level_95.json */,
+				1FF8991E1E23CD7B00A35EE8 /* Level_96.json */,
+				1FF8991F1E23CD7B00A35EE8 /* Level_97.json */,
+				1FF899201E23CD7B00A35EE8 /* Level_98.json */,
+				1FF899211E23CD7B00A35EE8 /* Level_99.json */,
+				1FF899221E23CD7B00A35EE8 /* Level_100.json */,
+				1FF899231E23CD7B00A35EE8 /* Level_101.json */,
+				1FF899241E23CD7B00A35EE8 /* Level_102.json */,
+				1FF899251E23CD7B00A35EE8 /* Level_103.json */,
+				1FF899261E23CD7B00A35EE8 /* Level_104.json */,
+				1FF899271E23CD7B00A35EE8 /* Level_105.json */,
+				1FF899281E23CD7B00A35EE8 /* Level_106.json */,
+				1FF899291E23CD7B00A35EE8 /* Level_107.json */,
+				1FF8992A1E23CD7B00A35EE8 /* Level_108.json */,
+			);
+			name = Levels;
+			path = "../../../Candy Crunch Saga/Candy Crunch Saga";
+			sourceTree = "<group>";
+		};
+		42818B039D9941BA04506C8D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BA8B944BF17179D12953ECFA /* Pods-AntiCandyCrunch.debug.xcconfig */,
+				8D8B74FE20EC0C04088F62C9 /* Pods-AntiCandyCrunch.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		C90F5B651D4688310079511E /* Setup */ = {
+			isa = PBXGroup;
+			children = (
+				C923DA1E1D70D948009AE9DE /* Assets.xcassets */,
+				1FF8992B1E23CD7B00A35EE8 /* Levels */,
+				C90F5B661D4688310079511E /* Images */,
+				C90F5B8A1D4688320079511E /* MKStoreKitConfigs.plist */,
+				C923DA1C1D70D90A009AE9DE /* GoogleService-Info.plist */,
+				C923DA231D70DFD7009AE9DE /* Info.plist */,
+				C923DA1A1D70D8D7009AE9DE /* PUSAB___.otf */,
+				C90F5B8B1D4688320079511E /* Settings.swift */,
+				C90F5B8C1D4688320079511E /* Sounds */,
+			);
+			path = Setup;
+			sourceTree = "<group>";
+		};
+		C90F5B661D4688310079511E /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				C9BDED331D5157E3003A31BA /* AchievementBadges.atlas */,
+				C90F5B681D4688310079511E /* Grid.atlas */,
+				C90F5B691D4688310079511E /* Sprites.atlas */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		C90F5B8C1D4688320079511E /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C90F5B8D1D4688320079511E /* BackgroundMusic.mp3 */,
+				C90F5B8E1D4688320079511E /* Chomp.wav */,
+				C90F5B8F1D4688320079511E /* Drip.wav */,
+				C90F5B901D4688320079511E /* Ka-Ching.wav */,
+				C90F5B911D4688320079511E /* Scrape.wav */,
+				C93A371D1D704AAD00922487 /* Tap.wav */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		C923DA221D70DAED009AE9DE /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				C955F4B41D3F94C0003C7A55 /* Main.storyboard */,
+				C955F4B91D3F94C0003C7A55 /* LaunchScreen.storyboard */,
+				C955F4AC1D3F94C0003C7A55 /* AppDelegate.swift */,
+				C955F4B21D3F94C0003C7A55 /* GameViewController.swift */,
+				C90F5B571D46825F0079511E /* GameScene.sks */,
+				C955F4B01D3F94C0003C7A55 /* GameScene.swift */,
+				C955F4CA1D3F9C67003C7A55 /* WorldMapScene.sks */,
+				C955F4C81D3F9C15003C7A55 /* WorldMapScene.swift */,
+				C9462AD21D401CF1007F9038 /* MainMenuScene.sks */,
+				C9462AD41D401D71007F9038 /* MainMenuScene.swift */,
+				C92AA1E41D51080A004BC4AD /* AchievementsScene.sks */,
+				C92AA1E21D5107F9004BC4AD /* AchievementsScene.swift */,
+				C9C6CF361D5DF3500039A3FB /* SettingsScene.sks */,
+				C9C6CF381D5DF36C0039A3FB /* SettingsScene.swift */,
+				C9C4B8331D422AE500C6E285 /* PlayerStats.swift */,
+				C9C616AB1D3FB2D200200CBE /* Extensions.swift */,
+				C90F5B591D4685D70079511E /* Cookie.swift */,
+				C90F5B5B1D46865B0079511E /* Array2D.swift */,
+				C90F5B5D1D4686AD0079511E /* Level.swift */,
+				C90F5B5F1D4686CC0079511E /* Tile.swift */,
+				C90F5B611D4686EE0079511E /* Swap.swift */,
+				C90F5B631D4687250079511E /* Chain.swift */,
+				C92F75111D6DE955002FBE19 /* DataService.swift */,
+				C92F75141D6E0B07002FBE19 /* User.swift */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		C955F4A01D3F94C0003C7A55 = {
+			isa = PBXGroup;
+			children = (
+				C955F4AB1D3F94C0003C7A55 /* AntiCandyCrunch */,
+				C955F4AA1D3F94C0003C7A55 /* Products */,
+				42818B039D9941BA04506C8D /* Pods */,
+				0FD711F9760A6E667D187711 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		C955F4AA1D3F94C0003C7A55 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C955F4A91D3F94C0003C7A55 /* AntiCandyCrunch.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C955F4AB1D3F94C0003C7A55 /* AntiCandyCrunch */ = {
+			isa = PBXGroup;
+			children = (
+				C90F5B651D4688310079511E /* Setup */,
+				C9C6CF001D5613D70039A3FB /* Helpers */,
+				C923DA221D70DAED009AE9DE /* Source */,
+			);
+			path = AntiCandyCrunch;
+			sourceTree = "<group>";
+		};
+		C9C6CF001D5613D70039A3FB /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				C93A37191D70048E00922487 /* GCHelper.swift */,
+				C9C6CF241D5BA9B40039A3FB /* UIKit.framework */,
+				C9C6CF221D5BA9A60039A3FB /* CoreGraphics.framework */,
+				C9C6CF201D5BA9980039A3FB /* Foundation.framework */,
+				C9C6CF261D5BA9D30039A3FB /* Chartboost.framework */,
+				C9C6CF081D562C820039A3FB /* RateMyApp.swift */,
+				C9C6CF0A1D56303E0039A3FB /* GoogleMobileAds.framework */,
+				C9C6CF051D5614100039A3FB /* StoreKit.framework */,
+				C9C6CF011D5613D70039A3FB /* MKStoreKit */,
+				C9C6CF071D56145A0039A3FB /* AntiCandyCrunch-Bridging-Header.h */,
+				C92F750E1D6DA010002FBE19 /* Constants.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		C9C6CF011D5613D70039A3FB /* MKStoreKit */ = {
+			isa = PBXGroup;
+			children = (
+				C9C6CF021D5613D70039A3FB /* MKStoreKit.h */,
+				C9C6CF031D5613D70039A3FB /* MKStoreKit.m */,
+			);
+			path = MKStoreKit;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C955F4A81D3F94C0003C7A55 /* AntiCandyCrunch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C955F4BF1D3F94C0003C7A55 /* Build configuration list for PBXNativeTarget "AntiCandyCrunch" */;
+			buildPhases = (
+				FFE4E3E9E3F10ED77D93F537 /* [CP] Check Pods Manifest.lock */,
+				C955F4A51D3F94C0003C7A55 /* Sources */,
+				C955F4A61D3F94C0003C7A55 /* Frameworks */,
+				C955F4A71D3F94C0003C7A55 /* Resources */,
+				41FB721D4DD52704C571C312 /* [CP] Embed Pods Frameworks */,
+				F5A7016458DBA0227070DD55 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AntiCandyCrunch;
+			productName = AntiCandyCrunch;
+			productReference = C955F4A91D3F94C0003C7A55 /* AntiCandyCrunch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C955F4A11D3F94C0003C7A55 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = Rebeloper;
+				TargetAttributes = {
+					C955F4A81D3F94C0003C7A55 = {
+						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 7EC32T954D;
+						LastSwiftMigration = 0800;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = C955F4A41D3F94C0003C7A55 /* Build configuration list for PBXProject "AntiCandyCrunch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C955F4A01D3F94C0003C7A55;
+			productRefGroup = C955F4AA1D3F94C0003C7A55 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C955F4A81D3F94C0003C7A55 /* AntiCandyCrunch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C955F4A71D3F94C0003C7A55 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FF899401E23CD7B00A35EE8 /* Level_20.json in Resources */,
+				C93A371E1D704AAD00922487 /* Tap.wav in Resources */,
+				1FF899801E23CD7B00A35EE8 /* Level_84.json in Resources */,
+				1FF899741E23CD7B00A35EE8 /* Level_72.json in Resources */,
+				1FF899621E23CD7B00A35EE8 /* Level_54.json in Resources */,
+				C923DA1B1D70D8D7009AE9DE /* PUSAB___.otf in Resources */,
+				1FF8993A1E23CD7B00A35EE8 /* Level_14.json in Resources */,
+				1FF899791E23CD7B00A35EE8 /* Level_77.json in Resources */,
+				C90F5BB91D4688320079511E /* Ka-Ching.wav in Resources */,
+				1FF899471E23CD7B00A35EE8 /* Level_27.json in Resources */,
+				1FF899411E23CD7B00A35EE8 /* Level_21.json in Resources */,
+				1FF8996E1E23CD7B00A35EE8 /* Level_66.json in Resources */,
+				1FF8994E1E23CD7B00A35EE8 /* Level_34.json in Resources */,
+				1FF8992E1E23CD7B00A35EE8 /* Level_2.json in Resources */,
+				1FF8997C1E23CD7B00A35EE8 /* Level_80.json in Resources */,
+				1FF899311E23CD7B00A35EE8 /* Level_5.json in Resources */,
+				C923DA1F1D70D948009AE9DE /* Assets.xcassets in Resources */,
+				1FF899811E23CD7B00A35EE8 /* Level_85.json in Resources */,
+				1FF899331E23CD7B00A35EE8 /* Level_7.json in Resources */,
+				1FF899581E23CD7B00A35EE8 /* Level_44.json in Resources */,
+				C9462AD31D401CF1007F9038 /* MainMenuScene.sks in Resources */,
+				1FF899921E23CD7B00A35EE8 /* Level_102.json in Resources */,
+				1FF8994B1E23CD7B00A35EE8 /* Level_31.json in Resources */,
+				1FF8996F1E23CD7B00A35EE8 /* Level_67.json in Resources */,
+				C90F5B931D4688320079511E /* Grid.atlas in Resources */,
+				1FF8996B1E23CD7B00A35EE8 /* Level_63.json in Resources */,
+				1FF899551E23CD7B00A35EE8 /* Level_41.json in Resources */,
+				1FF8994D1E23CD7B00A35EE8 /* Level_33.json in Resources */,
+				1FF899611E23CD7B00A35EE8 /* Level_53.json in Resources */,
+				C955F4BB1D3F94C0003C7A55 /* LaunchScreen.storyboard in Resources */,
+				1FF899641E23CD7B00A35EE8 /* Level_56.json in Resources */,
+				1FF899751E23CD7B00A35EE8 /* Level_73.json in Resources */,
+				C923DA1D1D70D90A009AE9DE /* GoogleService-Info.plist in Resources */,
+				1FF899891E23CD7B00A35EE8 /* Level_93.json in Resources */,
+				1FF899321E23CD7B00A35EE8 /* Level_6.json in Resources */,
+				1FF8992D1E23CD7B00A35EE8 /* Level_1.json in Resources */,
+				1FF8993B1E23CD7B00A35EE8 /* Level_15.json in Resources */,
+				1FF899781E23CD7B00A35EE8 /* Level_76.json in Resources */,
+				C90F5B941D4688320079511E /* Sprites.atlas in Resources */,
+				1FF899951E23CD7B00A35EE8 /* Level_105.json in Resources */,
+				1FF899761E23CD7B00A35EE8 /* Level_74.json in Resources */,
+				1FF899371E23CD7B00A35EE8 /* Level_11.json in Resources */,
+				1FF899521E23CD7B00A35EE8 /* Level_38.json in Resources */,
+				C9C6CF371D5DF3500039A3FB /* SettingsScene.sks in Resources */,
+				1FF8998B1E23CD7B00A35EE8 /* Level_95.json in Resources */,
+				1FF899861E23CD7B00A35EE8 /* Level_90.json in Resources */,
+				C92AA1E51D51080A004BC4AD /* AchievementsScene.sks in Resources */,
+				1FF899351E23CD7B00A35EE8 /* Level_9.json in Resources */,
+				C90F5B581D46825F0079511E /* GameScene.sks in Resources */,
+				1FF899731E23CD7B00A35EE8 /* Level_71.json in Resources */,
+				C90F5BBA1D4688320079511E /* Scrape.wav in Resources */,
+				1FF8993F1E23CD7B00A35EE8 /* Level_19.json in Resources */,
+				1FF8992C1E23CD7B00A35EE8 /* Level_0.json in Resources */,
+				1FF899561E23CD7B00A35EE8 /* Level_42.json in Resources */,
+				1FF899691E23CD7B00A35EE8 /* Level_61.json in Resources */,
+				1FF899341E23CD7B00A35EE8 /* Level_8.json in Resources */,
+				1FF899651E23CD7B00A35EE8 /* Level_57.json in Resources */,
+				1FF899531E23CD7B00A35EE8 /* Level_39.json in Resources */,
+				1FF899931E23CD7B00A35EE8 /* Level_103.json in Resources */,
+				1FF899871E23CD7B00A35EE8 /* Level_91.json in Resources */,
+				1FF8996A1E23CD7B00A35EE8 /* Level_62.json in Resources */,
+				1FF8998A1E23CD7B00A35EE8 /* Level_94.json in Resources */,
+				C90F5BB61D4688320079511E /* BackgroundMusic.mp3 in Resources */,
+				1FF899681E23CD7B00A35EE8 /* Level_60.json in Resources */,
+				1FF8998E1E23CD7B00A35EE8 /* Level_98.json in Resources */,
+				1FF8998F1E23CD7B00A35EE8 /* Level_99.json in Resources */,
+				1FF899601E23CD7B00A35EE8 /* Level_52.json in Resources */,
+				1FF899671E23CD7B00A35EE8 /* Level_59.json in Resources */,
+				1FF899511E23CD7B00A35EE8 /* Level_37.json in Resources */,
+				1FF8998D1E23CD7B00A35EE8 /* Level_97.json in Resources */,
+				1FF899961E23CD7B00A35EE8 /* Level_106.json in Resources */,
+				1FF899501E23CD7B00A35EE8 /* Level_36.json in Resources */,
+				C9BDED341D5157E3003A31BA /* AchievementBadges.atlas in Resources */,
+				1FF8997D1E23CD7B00A35EE8 /* Level_81.json in Resources */,
+				1FF899901E23CD7B00A35EE8 /* Level_100.json in Resources */,
+				1FF899771E23CD7B00A35EE8 /* Level_75.json in Resources */,
+				C90F5BB71D4688320079511E /* Chomp.wav in Resources */,
+				C90F5BB41D4688320079511E /* MKStoreKitConfigs.plist in Resources */,
+				1FF8994A1E23CD7B00A35EE8 /* Level_30.json in Resources */,
+				1FF8995E1E23CD7B00A35EE8 /* Level_50.json in Resources */,
+				1FF8994F1E23CD7B00A35EE8 /* Level_35.json in Resources */,
+				1FF899381E23CD7B00A35EE8 /* Level_12.json in Resources */,
+				1FF899841E23CD7B00A35EE8 /* Level_88.json in Resources */,
+				1FF899661E23CD7B00A35EE8 /* Level_58.json in Resources */,
+				1FF899441E23CD7B00A35EE8 /* Level_24.json in Resources */,
+				1FF8998C1E23CD7B00A35EE8 /* Level_96.json in Resources */,
+				1FF8995A1E23CD7B00A35EE8 /* Level_46.json in Resources */,
+				1FF8997A1E23CD7B00A35EE8 /* Level_78.json in Resources */,
+				C90F5BB81D4688320079511E /* Drip.wav in Resources */,
+				1FF899591E23CD7B00A35EE8 /* Level_45.json in Resources */,
+				1FF8995F1E23CD7B00A35EE8 /* Level_51.json in Resources */,
+				1FF8997B1E23CD7B00A35EE8 /* Level_79.json in Resources */,
+				1FF899431E23CD7B00A35EE8 /* Level_23.json in Resources */,
+				1FF899391E23CD7B00A35EE8 /* Level_13.json in Resources */,
+				1FF8995B1E23CD7B00A35EE8 /* Level_47.json in Resources */,
+				1FF899301E23CD7B00A35EE8 /* Level_4.json in Resources */,
+				1FF899541E23CD7B00A35EE8 /* Level_40.json in Resources */,
+				1FF8993D1E23CD7B00A35EE8 /* Level_17.json in Resources */,
+				1FF899571E23CD7B00A35EE8 /* Level_43.json in Resources */,
+				1FF8993C1E23CD7B00A35EE8 /* Level_16.json in Resources */,
+				1FF899481E23CD7B00A35EE8 /* Level_28.json in Resources */,
+				1FF899971E23CD7B00A35EE8 /* Level_107.json in Resources */,
+				1FF899421E23CD7B00A35EE8 /* Level_22.json in Resources */,
+				1FF8996C1E23CD7B00A35EE8 /* Level_64.json in Resources */,
+				C955F4B61D3F94C0003C7A55 /* Main.storyboard in Resources */,
+				1FF899701E23CD7B00A35EE8 /* Level_68.json in Resources */,
+				1FF899711E23CD7B00A35EE8 /* Level_69.json in Resources */,
+				1FF8997E1E23CD7B00A35EE8 /* Level_82.json in Resources */,
+				1FF899911E23CD7B00A35EE8 /* Level_101.json in Resources */,
+				1FF899451E23CD7B00A35EE8 /* Level_25.json in Resources */,
+				1FF899361E23CD7B00A35EE8 /* Level_10.json in Resources */,
+				1FF8995C1E23CD7B00A35EE8 /* Level_48.json in Resources */,
+				1FF899831E23CD7B00A35EE8 /* Level_87.json in Resources */,
+				1FF899851E23CD7B00A35EE8 /* Level_89.json in Resources */,
+				1FF8994C1E23CD7B00A35EE8 /* Level_32.json in Resources */,
+				1FF8992F1E23CD7B00A35EE8 /* Level_3.json in Resources */,
+				1FF8996D1E23CD7B00A35EE8 /* Level_65.json in Resources */,
+				1FF899631E23CD7B00A35EE8 /* Level_55.json in Resources */,
+				1FF899821E23CD7B00A35EE8 /* Level_86.json in Resources */,
+				C955F4CB1D3F9C67003C7A55 /* WorldMapScene.sks in Resources */,
+				1FF899981E23CD7B00A35EE8 /* Level_108.json in Resources */,
+				1FF899941E23CD7B00A35EE8 /* Level_104.json in Resources */,
+				1FF899491E23CD7B00A35EE8 /* Level_29.json in Resources */,
+				1FF8995D1E23CD7B00A35EE8 /* Level_49.json in Resources */,
+				1FF899461E23CD7B00A35EE8 /* Level_26.json in Resources */,
+				1FF8993E1E23CD7B00A35EE8 /* Level_18.json in Resources */,
+				1FF899721E23CD7B00A35EE8 /* Level_70.json in Resources */,
+				1FF899881E23CD7B00A35EE8 /* Level_92.json in Resources */,
+				1FF8997F1E23CD7B00A35EE8 /* Level_83.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		41FB721D4DD52704C571C312 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AntiCandyCrunch/Pods-AntiCandyCrunch-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F5A7016458DBA0227070DD55 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AntiCandyCrunch/Pods-AntiCandyCrunch-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FFE4E3E9E3F10ED77D93F537 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C955F4A51D3F94C0003C7A55 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9C4B8341D422AE500C6E285 /* PlayerStats.swift in Sources */,
+				C92AA1E31D5107F9004BC4AD /* AchievementsScene.swift in Sources */,
+				C9C6CF091D562C820039A3FB /* RateMyApp.swift in Sources */,
+				C90F5B5E1D4686AD0079511E /* Level.swift in Sources */,
+				C90F5B5A1D4685D70079511E /* Cookie.swift in Sources */,
+				C9C6CF041D5613D70039A3FB /* MKStoreKit.m in Sources */,
+				C90F5B601D4686CC0079511E /* Tile.swift in Sources */,
+				C90F5BB51D4688320079511E /* Settings.swift in Sources */,
+				C9462AD51D401D71007F9038 /* MainMenuScene.swift in Sources */,
+				C92F75151D6E0B07002FBE19 /* User.swift in Sources */,
+				C9C616AC1D3FB2D200200CBE /* Extensions.swift in Sources */,
+				C955F4B11D3F94C0003C7A55 /* GameScene.swift in Sources */,
+				C955F4C91D3F9C15003C7A55 /* WorldMapScene.swift in Sources */,
+				C90F5B641D4687250079511E /* Chain.swift in Sources */,
+				C955F4B31D3F94C0003C7A55 /* GameViewController.swift in Sources */,
+				C92F75121D6DE955002FBE19 /* DataService.swift in Sources */,
+				C92F750F1D6DA010002FBE19 /* Constants.swift in Sources */,
+				C90F5B621D4686EE0079511E /* Swap.swift in Sources */,
+				C9C6CF391D5DF36C0039A3FB /* SettingsScene.swift in Sources */,
+				C93A371A1D70048E00922487 /* GCHelper.swift in Sources */,
+				C955F4AD1D3F94C0003C7A55 /* AppDelegate.swift in Sources */,
+				C90F5B5C1D46865B0079511E /* Array2D.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C955F4B41D3F94C0003C7A55 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C955F4B51D3F94C0003C7A55 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C955F4B91D3F94C0003C7A55 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C955F4BA1D3F94C0003C7A55 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C955F4BD1D3F94C0003C7A55 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C955F4BE1D3F94C0003C7A55 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C955F4C01D3F94C0003C7A55 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BA8B944BF17179D12953ECFA /* Pods-AntiCandyCrunch.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7EC32T954D;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/AntiCandyCrunch/Helpers",
+				);
+				INFOPLIST_FILE = AntiCandyCrunch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Rebeloper.AntiCandyCrunch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/AntiCandyCrunch/Helpers/AntiCandyCrunch-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		C955F4C11D3F94C0003C7A55 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8D8B74FE20EC0C04088F62C9 /* Pods-AntiCandyCrunch.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7EC32T954D;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/AntiCandyCrunch/Helpers",
+				);
+				INFOPLIST_FILE = AntiCandyCrunch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Rebeloper.AntiCandyCrunch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/AntiCandyCrunch/Helpers/AntiCandyCrunch-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C955F4A41D3F94C0003C7A55 /* Build configuration list for PBXProject "AntiCandyCrunch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C955F4BD1D3F94C0003C7A55 /* Debug */,
+				C955F4BE1D3F94C0003C7A55 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C955F4BF1D3F94C0003C7A55 /* Build configuration list for PBXNativeTarget "AntiCandyCrunch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C955F4C01D3F94C0003C7A55 /* Debug */,
+				C955F4C11D3F94C0003C7A55 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C955F4A11D3F94C0003C7A55 /* Project object */;
+}
