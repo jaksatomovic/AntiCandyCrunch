@@ -5,7 +5,6 @@ install pods and open with xcode workspace
 
 
 <h2>Donations</h2>
-For being part of open source projects and documenting my work here and on <a href="https://chsakell.com">chsakell's blog</a> I really do not charge anything. I try to avoid any type of ads also.
 
 If you think that any information you obtained here is worth of some money and are willing to pay for it, feel free to send any amount through paypal.
 
